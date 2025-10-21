@@ -1,0 +1,7 @@
+This project is a personal AI-powered Telegram bot that speaks in the voice and tone of "Saif the Voice" (also known as Alaska).  
+It’s designed to respond like a real person — calm, honest, and sometimes tragic — reflecting late-night thoughts, silence, and raw emotion.  
+
+The bot uses OpenAI's GPT model to generate replies and connects to Telegram through the Telegram Bot API.  
+It was built to share deep messages, thoughts, and feelings in a realistic way, almost like talking to a human soul online.
+
+More features will be added later, including custom commands and better responses.
